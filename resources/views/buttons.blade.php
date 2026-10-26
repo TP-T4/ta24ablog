@@ -17,8 +17,8 @@
                active:bg-[#0a58ca] active:border-[#0a53be]
                focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-[#3184fd]/50
                disabled:opacity-65 disabled:pointer-events-none">
-    Click me
-</button>
+            Click me
+        </button>
     </div>
 </body>
 </html>
